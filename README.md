@@ -33,7 +33,7 @@
 
 <div align="center"> 
   <a href="www.instagram.com/xeno_sir_"> 
-    <img src="https://github.com/XENOMDBOT/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="XENO_MD" height="300"> 
+    <img src="https://github.com/XENOMDBOT/Knightbot-MD/blob/main/assets/bot_image.jpg](https://github.com/XENOMDBOT/Knightbot-MD/blob/main/assets/bot_image.jpeg" alt="XENO_MD" height="300"> 
   </a> 
 </div>
 
